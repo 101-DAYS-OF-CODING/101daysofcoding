@@ -88,6 +88,8 @@ Keep up the fantastic work, and may your coding journey be filled with growth, l
             |-- 101A.pdf
             |-- 101B.pdf
             |-- 101C.pdf
+            |-- 101D.pdf
+            |-- 101E.pdf
           |-- PNG/
             |-- 101.png
             |-- 101A.png
