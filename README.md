@@ -2,7 +2,7 @@
 
 ## 101 DAYS OF CODING `"Code daily, change your world."`
 
-![](./Image/Logo/101%20DAYS%20OF%20CODING%20LOGO%20AND%20TAGLINE.png)
+![](./Image/Logo/101%20DAYS%20OF%20CODING%20LOGO%20AND%20TAGLINE%201.png)
 
 ## About
 
