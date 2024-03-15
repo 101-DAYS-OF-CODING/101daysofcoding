@@ -24,6 +24,14 @@
 
 - [How to join](#how-to-join-this-101-days-of-coding)
 - [Follow us in](#follow-us-in)
+- [Documents for Starting Your Coding Journey](#documents-for-starting-your-coding-journey)
+
+  - [📃 Daily Progress Tracking Sheet](#📃-daily-progress-tracking-sheet)
+  - [🖋️ 101 Days of Coding Commitment Pledge:](#🖋️-101-days-of-coding-commitment-pledge)
+  - [Documents Link](#documents-link)
+
+- [After joining](#after-joining)
+- [Everyday Post Image](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/FOR%20POST%20EVERYDAY)
 - [File Structure](#file-structure)
 - [Contuct Us](#contuct-us)
 
@@ -31,7 +39,7 @@
 
 ### 👋 Hello
 
-📚 To join us on this transformative journey, please fill out the form [**here**](https://forms.gle/g3L9VAK4ZTeKmXuN8). Once you've completed the form and followed us on LinkedIn, we'll be in touch via LinkedIn, WhatsApp, or Email to get started! 🚀 We will contact you shortly after receiving your submission.
+📚 To join us on this transformative journey, please fill out the form [**here**](https://forms.gle/gtUL5L7ZNfaew7Tg9). Once you've completed the form and followed us on LinkedIn, we'll be in touch via LinkedIn, WhatsApp, or Email to get started! 🚀 We will contact you shortly after receiving your submission.
 
 Let's code, learn, and grow together!
 
@@ -40,7 +48,22 @@ Let's code, learn, and grow together!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/101daysofcoding/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/101-DAYS-OF-CODING/101daysofcoding/)
 
-## After Submit
+## **Documents for Starting Your Coding Journey**
+
+### 📃 **Daily Progress Tracking Sheet:**
+
+- Upon starting this challenge, you will receive a two-page PDF document. The first page contains a printable sheet with numbers from 1 to 101. Each day, after completing your coding session, mark the corresponding number to track your progress throughout the challenge.
+
+### 🖋️ **101 Days of Coding Commitment Pledge:**
+
+- Additionally, included in the PDF is a commitment pledge. This document is meant to be printed and signed by you, signifying your dedication to completing the 101 Days of Coding challenge. Keep it in a visible place as a reminder of your commitment and motivation throughout the journey.
+
+### Documents Link
+
+1.  [Daily Progress Tracking Sheet](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/101/DAILY%20PROGRESS)
+2.  [101 Days of Coding Commitment Pledge](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/101/COMMITMENT%20PLEDGE)
+
+## After joining
 
 ### 1. Your Daily Update:
 
@@ -60,16 +83,7 @@ Let's code, learn, and grow together!
 
 Keep up the fantastic work, and may your coding journey be filled with growth, learning, and success!
 
-## **Documents for Starting Your Coding Journey**
-
-📃 **Daily Progress Tracking Sheet:** Upon starting this challenge, you will receive a two-page PDF document. The first page contains a printable sheet with numbers from 1 to 101. Each day, after completing your coding session, mark the corresponding number to track your progress throughout the challenge.
-
-🖋️ **101 Days of Coding Commitment Pledge:** Additionally, included in the PDF is a commitment pledge. This document is meant to be printed and signed by you, signifying your dedication to completing the 101 Days of Coding challenge. Keep it in a visible place as a reminder of your commitment and motivation throughout the journey.
-
-### Documents Link
-
-1.  [Daily Progress Tracking Sheet](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/101/DAILY%20PROGRESS)
-2.  [101 Days of Coding Commitment Pledge](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/101/COMMITMENT%20PLEDGE)
+### [Everyday Post Image](https://github.com/101-DAYS-OF-CODING/101daysofcoding/tree/main/Image/FOR%20POST%20EVERYDAY)
 
 ## File Structure
 
